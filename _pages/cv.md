@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: cv
+newtab: true
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 2
+permalink: assets/pdf/data_science_resume.pdf
 ---
